@@ -8,7 +8,6 @@
 <br/>
 * Accessing the Dashboard UI
 * Install the Kubernetes CLI (kubectl)
-* Configure kubectl to connect to your AKS cluster
 
 
 --------
